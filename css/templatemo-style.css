@@ -131,6 +131,7 @@ a, a:hover, a:focus {
     .menu a {
         font-weight: 700;
         text-decoration: none;
+        font-size: 12px;
     }
 
 .widget-title {
