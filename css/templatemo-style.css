@@ -156,9 +156,7 @@ a, a:hover, a:focus {
 }
 
 .widget {
-    font-family: Open Sans;
-    font-size: 15px;
-    font-weight: 400;
+    font-size: 14px;
     letter-spacing: 0px;
     text-transform: none;
     ord-wrap: break-word;
